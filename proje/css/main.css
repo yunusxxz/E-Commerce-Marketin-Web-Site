@@ -1,0 +1,1078 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Outfit", sans-serif;
+
+
+}
+
+
+/* Header Start */
+.mainHeader {
+    width: 100%;
+}
+
+.all {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 38px;
+    padding: 38px 64px 25px 64px;
+    border-bottom: 2px solid #FFDBB8;
+    
+
+}
+
+
+.menuOne {
+    display: flex;
+    padding: 0 24px 0 8px
+}
+
+
+
+
+.list {
+    display: flex;
+    list-style-type: none;
+    gap: 24px;
+    cursor: pointer;
+    margin-left: 64px;
+
+
+}
+
+ul.list li {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+
+}
+
+.menuTwo {
+    display: flex;
+    gap: 22px;
+    font-size: 19px;
+    font-weight: 400;
+    align-items: center;
+    margin-right: 64px;
+}
+
+
+.headerP {
+    display: flex;
+    align-items: center;
+
+}
+
+.headerButton {
+    border-radius: 5px;
+    border: none;
+    color: #fff;
+    background-color: orange;
+    padding: 8px 51px 8px 25px;
+    height: 41px;
+    font-size: 20px;
+    font-weight: 500;
+    cursor: pointer;
+}
+
+/* Header End */
+
+/* Main 1 start */
+.chaptar1 {
+    width: 1238px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 71px;
+}
+
+.bölümmm {
+    width: 702px;
+    height: 446px;
+    
+}
+
+.masterThe {
+    width: 702px;
+    font-size: 61px;
+    font-weight: 600;
+}
+
+.experienceParaButton {
+    margin-top: 24px;
+}
+
+.experiencee {
+    width: 533px;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.learnPlay {
+    display: flex;
+    align-items: center;
+    column-gap: 11px;
+    margin-top: 26px;
+}
+
+.buttons {
+    margin-top: 24px;
+    display: flex;
+    align-items: center;
+    column-gap: 20px;
+    
+}
+
+.findButton {
+    width: 153px;
+    height: 39px;
+    font-size: 18px;
+    font-weight: 500;
+    border: none;
+    border-radius: 5px;
+    color: #FFFFFF;
+    background-color: #D27722;
+    cursor: pointer;
+}
+
+.joinButton {
+    width: 150px;
+    height: 39px;
+    font-size: 18px;
+    font-weight: 500;
+    border: 2px solid #D27722;
+    border-radius: 5px;
+    background-color: #FFFFFF;
+    color: #D27722;
+    cursor: pointer;
+}
+/* Main 1 End */
+
+/* main 2 start */
+.minnanin {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container {
+    width: 1085px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 29px;
+    margin: 178px 170px 0px 170px;
+    border: 3px solid #FFDBB8;
+    border-radius: 20px;
+    background-color: #faefe5;
+
+}
+
+.container h3 {
+    font-size: 40px;
+    font-weight: bold;
+    color: #D27722;
+
+
+}
+
+.container h3 div {
+    font-size: 16px;
+    color: #403D39;
+}
+
+/* main 2 end */
+
+/* main 3 Start */
+
+
+.main3 {
+    margin-top: 182px;
+}
+
+
+.headerToplam {
+    width: 1313px;
+    display: flex;
+    justify-content: space-between !important;
+    margin: 0 auto;
+
+}
+
+.column {
+    width: 618px;
+    margin-left: 63px;
+
+}
+
+.imgH1 {
+    display: flex;
+    align-items: center;
+    column-gap: 20px;
+    font-size: 50px;
+    font-weight: 600;
+
+}
+
+
+.spanDive {
+    width: 552px;
+    margin: 7px 0 0 69px;
+
+}
+
+.spanSearch {
+    display: flex;
+    align-items: center;
+    column-gap: 10px;
+}
+
+
+.bölümlerToplam {
+    width: 1311px;
+    margin: 0 auto;
+    margin-top: 68px;
+}
+
+.bölüm1 {
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.box {
+    background-color: aqua;
+    width: 421px;
+    height: 121px;
+    border-radius: 15px;
+
+
+}
+
+.box1 {
+    background-color: #D27722;
+}
+
+
+
+.ekmekImg {
+    margin: 34px 28px 34px 34px;
+}
+
+.bakeryMaster {
+    width: 274px;
+    position: relative;
+    left: 116px;
+    bottom: 100px;
+
+}
+
+.bakery {
+    width: 273px;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 4px;
+    color: #FFFFFF;
+
+}
+
+.master {
+    width: 273px;
+    font-size: 14px;
+    color: #FFFFFF;
+}
+
+.box2 {
+    border: 3px solid #FFDBB8;
+    background-color: #FFFFFF;
+}
+
+.vegan {
+    font-size: 24px;
+    font-weight: 600;
+    color: #252422;
+}
+
+.create {
+    font-size: 14px;
+    color: #403D39;
+}
+
+
+.gulugulu {
+    margin-top: 24px;
+}
+
+
+.boxx {
+    background-color: #FFFFFF;
+    border-radius: 15px;
+    border: 3px solid #FFDBB8;
+
+
+}
+
+.bbq {
+    font-size: 24px;
+    font-weight: 600;
+    color: #252422;
+}
+
+.fire {
+    color: #403D39;
+    font-size: 14px;
+}
+
+/* main 3 End */
+
+
+/* main 4 Start */
+
+
+.main4 {
+    margin-top: 204px;
+}
+
+.h1P {
+    width: 510px;
+    margin: 0 auto;
+}
+
+
+.ourUnique {
+    font-size: 50px;
+    font-weight: 600;
+    margin-left: 10px;
+}
+
+.experience {
+    width: 510px;
+    font-size: 16px;
+    font-weight: 400;
+    margin-top: 3px;
+    color: #403D39;
+}
+
+.üçlü {
+    width: 1312px;
+    height: 308px;
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+    margin-top: 79px;
+}
+
+
+.eşya {
+    width: 360px;
+
+}
+
+.frame {
+    margin-left: 130px;
+}
+
+.expert {
+    margin: 27px 81px 27px 81px;
+}
+
+.learnFrom {
+    line-height: 26px;
+    width: 360px;
+    font-size: 18px;
+    font-weight: 400;
+    color: #403D39;
+}
+
+
+.save {
+    width: 322px;
+    font-size: 32px;
+    font-weight: 600;
+    margin: 27px 19px 27px 19px
+}
+
+.embrace {
+    width: 360px;
+    font-size: 18px;
+    color: #403D39;
+}
+
+.accessible {
+    width: 294px;
+    margin: 27px 33px;
+    font-size: 32px;
+    font-weight: 600;
+}
+
+.startt {
+    width: 360px;
+    font-size: 18px;
+    font-weight: 400;
+    color: #403D39;
+}
+
+/* main 4 End */
+
+/* main 5 Start */
+
+
+.main5 {
+    margin-top: 255px;
+    /* height: 532px; */
+
+
+}
+
+.toplam {
+    width: 646px;
+
+}
+
+.birinci {
+    width: 646px;
+    height: 148px;
+    border: 3px solid #FFDBB8;
+    border-radius: 15px;
+    background-color: #FFFFFF;
+    margin-top: 29px;
+}
+
+.resimBölüm {
+    margin: 0 auto;
+    width: 1301px;
+    display: flex;
+    justify-content: space-between;
+}
+
+
+
+.rectangleDiverse {
+    display: flex;
+    align-items: center;
+    column-gap: 16px;
+    margin: 16px;
+
+}
+
+
+.diverse {
+    width: 283px;
+    font-size: 24px;
+    font-weight: 600;
+}
+
+.exploree {
+    width: 566px;
+    font-size: 16px;
+    font-weight: 400;
+    margin: 10px 16px 16px 65px;
+}
+
+
+/* main 5 End */
+
+
+/* main 6  Start */
+
+.main5 {
+    margin-top: 204px;
+}
+
+
+.ilkToplam {
+    width: 1312px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+.h1Span {
+    width: 600px;
+}
+
+.howItsWorks {
+    width: 313px;
+    font-size: 50px;
+    font-weight: 600;
+
+}
+
+.getting {
+    width: 287px;
+    font-weight: 400;
+    margin-top: 100px;
+}
+
+.searchSpan {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    column-gap: 10px;
+}
+
+.imgExploreOur {
+    margin: 0 auto;
+    width: 1312px;
+    margin-top: 91px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.exploreBegin {
+    margin: 70px 0 70px 131px;
+    height: 258px;
+}
+
+.exploreOurC {
+    width: 590px;
+    font-size: 36px;
+    font-weight: 600;
+    margin-bottom: 29px;
+    color: #252422;
+}
+
+.beginBy {
+    width: 590px;
+    font-size: 18px;
+    font-weight: 400;
+    color: #403D39;
+    margin-bottom: 29px;
+
+}
+
+.browseButton {
+    width: 157px;
+    height: 41px;
+    background-color: #D27722;
+    color: #FFFFFF;
+    border: none;
+    border-radius: 5px;
+}
+
+.ikinciToplam {
+    width: 1312px;
+    height: 413px;
+    margin: 0 auto;
+}
+
+
+.ikinciToplam {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 86px;
+}
+
+.h1Ponce {
+    width: 590px;
+    height: 188px;
+    margin-top: 112px;
+}
+
+.select {
+    font-size: 36px;
+    font-weight: 600;
+    color: #252422;
+    margin-bottom: 29px;
+}
+
+.onceYou {
+    width: 590px;
+    font-size: 18px;
+    font-weight: 400;
+
+}
+
+.üçüncüToplam {
+    width: 1312px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+.enjoyStep {
+    margin: 84px 0 84px 131px;
+}
+
+.enjoy {
+    font-size: 36px;
+    font-weight: 600;
+    margin-bottom: 29px;
+    color: #252422;
+}
+
+.stepInto {
+    width: 590px;
+    font-size: 18px;
+    font-weight: 400;
+    margin-bottom: 29px;
+}
+
+.signUpButton {
+    width: 169px;
+    height: 41px;
+    font-size: 20px;
+    font-weight: 500;
+    border: none;
+    border-radius: 5px;
+    background-color: #D27722;
+    color: #FFFFFF;
+}
+
+/* main 6 End */
+
+
+/* main 7 Start */
+
+.main7 {
+    margin-top: 125px;
+
+}
+
+.moneyWe {
+    width: 523px;
+    height: 298px;
+    margin: 0 auto;
+    border: 2px solid #FFDBB8;
+    border-radius: 15px;
+    background-color: #faf1e8;
+}
+
+.moneyBack {
+    width: 356px;
+    font-size: 32px;
+    font-weight: 600;
+    margin: 85px 58px 20px 58px;
+}
+
+.weBelieve {
+    width: 473px;
+    font-weight: 400;
+    font-size: 18px;
+    margin: 0 25px 39px 25px;
+}
+
+
+.hepsi {
+    width: 1309px;
+    margin: 0 auto;
+    margin-top: 123px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.baslikParVs {
+    width: 647px;
+    height: 497px;
+
+
+}
+
+.shareYour {
+    width: 647px;
+    font-size: 18px;
+    font-weight: 400;
+    margin: 15px 0 15px 0;
+}
+
+
+.paragraf {
+    width: 617px;
+    font-size: 18px;
+    display: flex;
+    align-items: flex-start;
+    column-gap: 8px;
+
+}
+
+.üçlüOlsun {
+    width: 647px;
+    height: 222px;
+
+
+}
+
+
+
+.bir {
+    margin: 16px 0 8px 0;
+}
+
+.iki {
+    margin-bottom: 8px;
+}
+
+.becomeButton {
+    width: 150px;
+    height: 39px;
+    font-size: 18px;
+    font-weight: 500;
+    border: none;
+    border-radius: 5px;
+    margin-top: 15px;
+    background-color: #D27722;
+    color: #FFFFFF;
+}
+
+.alert {
+    display: flex;
+    align-items: center;
+    column-gap: 13px;
+    margin-top: 20px;
+}
+
+/* main 7 End */
+
+
+/* main 8 Start */
+.main8 {
+    margin-top: 142px;
+}
+
+.toplamm {
+    display: flex;
+    justify-content: space-between;
+    width: 1312px;
+    margin: 0 auto;
+}
+
+.alll {
+    background-color: #D27722;
+    border-top-right-radius: 25px;
+    border-bottom-right-radius: 25px;
+
+}
+
+.awrwetrg {
+    margin: 90px 86px 4px 104px;
+
+}
+
+.becomeAStudent {
+    width: 445px;
+    font-size: 50px;
+    font-weight: 600;
+    color: #FFFFFF;
+}
+
+.kickStart {
+    width: 558px;
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 31px;
+    color: #FFFFFF;
+}
+
+.paragrafHepsi {
+    margin-top: 31px;
+}
+
+.ortak {
+    width: 528px;
+    display: flex;
+    align-items: flex-start;
+    column-gap: 8px;
+    color: #FFFFFF;
+}
+
+.a {
+    margin-top: 8px;
+}
+
+.butonlar {
+    margin-top: 31px;
+}
+
+.buttonSignUp {
+    width: 90px;
+    height: 39px;
+    font-size: 18px;
+    font-weight: 500;
+    display: block;
+    border: 2px solid #FFDBB8;
+    border-radius: 5px;
+    color: #FFDBB8;
+    background-color: #D27722;
+}
+
+.buttonSignUp2 {
+    width: 90px;
+    height: 39px;
+    font-size: 18px;
+    font-weight: 500;
+    border: none;
+    border-radius: 5px;
+    margin-top: 31px;
+    background-color: #FFDBB8;
+    color: #D27722;
+}
+
+/* main 8 End */
+
+/* main 9 Start */
+
+.main9 {
+    margin-top: 158px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.yanYana {
+    display: flex;
+    justify-content: space-between;
+    width: 1312px;
+    margin: 0 auto;
+
+}
+
+.popular {
+    font-size: 40px;
+    font-weight: 600;
+    display: flex;
+    align-items: center;
+    column-gap: 10px;
+}
+
+.allll {
+    margin-top: 47px;
+}
+
+.find {
+    font-size: 24px;
+    font-weight: 600;
+    margin-bottom: 26px;
+}
+
+.bakeryJpTh {
+    margin-bottom: 16px;
+    display: flex;
+    column-gap: 8px;
+}
+
+.buttonn {
+    background-color: #fcecdc;
+    color: #D27722;
+    border: 2px solid #FFDBB8;
+    border-radius: 20px;
+}
+
+.bakeryy {
+    width: 111px;
+    height: 38px;
+}
+
+.japanese {
+    width: 255px;
+    height: 38px;
+}
+
+.thai {
+    width: 88px;
+    height: 38px;
+}
+
+.seaItlVeg {
+    margin-bottom: 16px;
+    display: flex;
+    column-gap: 16px;
+}
+
+.seafood {
+    width: 123px;
+    height: 38px;
+}
+
+.italian {
+    width: 175px;
+    height: 38px;
+}
+
+.vegann {
+    width: 104px;
+    height: 38px;
+}
+
+.bbqGrilling {
+    width: 174px;
+    height: 38px;
+}
+
+.findAndCountry {
+    margin-top: 75px;
+}
+
+.findaTutor {
+    margin-bottom: 26px;
+}
+
+.usaSpainFrance {
+    margin-bottom: 16px;
+    display: flex;
+    column-gap: 16px;
+}
+
+.usa {
+    width: 86px;
+    height: 38px;
+}
+
+.spain {
+    width: 99px;
+    height: 38px;
+}
+
+.france {
+    width: 107px;
+    height: 38px;
+}
+
+.mexicoGermany {
+    display: flex;
+    column-gap: 16px;
+}
+
+.mexico {
+    width: 110px;
+    height: 38px;
+}
+
+.germany {
+    width: 130px;
+    height: 38px;
+}
+
+.bölüm2 {
+    width: 631px;
+    margin-left: 148px;
+}
+
+.cookBlog {
+    display: flex;
+    align-items: center;
+    column-gap: 13px;
+    margin-bottom: 53px;
+}
+
+.fotolar1 {
+    width: 641px;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 24px;
+}
+
+.rectangle25JpgP {
+    width: 304px;
+    height: 340px;
+    border: 3px solid #FFDBB8;
+    border-radius: 7px;
+}
+
+.delectable {
+    width: 254px;
+    font-size: 20px;
+    font-weight: 600;
+    margin: 53px 25px 20px 25px;
+}
+
+.masteringg {
+    width: 254px;
+    font-size: 20px;
+    font-weight: 600;
+    margin: 53px 25px 20px 25px;
+}
+
+.howToPrepare {
+    width: 254px;
+    font-size: 20px;
+    font-weight: 600;
+    margin: 53px 25px 20px 25px;
+}
+
+.tips {
+    width: 254px;
+    font-size: 20px;
+    font-weight: 600;
+    margin: 53px 25px 20px 25px;
+}
+
+/* main 9 End */
+
+/* footer start */
+
+.footer {
+    width: 1312px;
+    height: 419px;
+    border-radius: 20px;
+    margin: 0 auto;
+    background-color: #D27722
+}
+
+
+.sfsdg {
+    margin-top: 137px;
+}
+
+.marginO {
+    width: 1118px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+    top: 100px;
+
+}
+.about {
+    font-size: 18px;
+    font-weight: 400;
+    margin-bottom: 16px;
+    color: #FFFFFF;
+}
+
+.ppp {
+    font-size: 20px;
+    font-weight: 400;
+    color: #FFDBB8;
+}
+
+.whoo {
+    margin-bottom: 8px;
+}
+
+.forStudents {
+    width: 130px;
+}
+
+.howw {
+    margin-bottom: 8px;
+}
+.cookk {
+    margin-bottom: 8px;
+}
+.becomee {
+    margin-bottom: 8px;
+}
+
+.footerIkinciOrt {
+    width: 707px;
+    position: relative;
+    top: 200px;
+    left: 75px;
+}
+
+.footerIkinci {
+    font-size: 20px;
+    font-weight: 400;
+    color: #FFDBB8;
+}
+
+
+
+
+ 

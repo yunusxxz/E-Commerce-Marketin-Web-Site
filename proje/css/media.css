@@ -1,0 +1,459 @@
+@media (max-width:768px) {
+
+    .all {
+        position: relative;
+        right: 50px;
+    }
+
+    .headerButton {
+        width: 110px;
+        font-size: 12px !important;
+        height: 40px !important;
+        
+    }
+
+    .list {
+        display: none !important;
+    }
+
+
+    .chaptar1 {
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+
+    }
+
+    .bölümmm {
+        position: relative;
+        right: 250px;
+    }
+
+    .bölümmm2 img {
+        width: 350px;
+        height: 281px;
+        position: relative;
+        right: 420px;
+
+    }
+
+    .masterThe {
+        width: 344px !important;
+        font-weight: 700 !important;
+        font-size: 32px !important;
+    }
+
+    .experiencee {
+        width: 326px !important;
+        font-size: 16px !important;
+    }
+
+    .minnanin {
+        display: none !important;
+    }
+
+    .headerToplam {
+        position: relative;
+        right: 70px;
+    }
+
+    .imgH1 {
+        width: 300px !important;
+        font-size: 30px !important;
+        font-weight: 700 !important;
+        position: relative;
+        left: 50px;
+    }
+
+    .spanDive {
+        display: none !important;
+    }
+
+    .spanSearch {
+        display: none !important;
+    }
+
+    .bölümlerToplam {
+        position: relative;
+        right: 45px;
+    }
+
+   .bölüm1 {
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+    right: 400px;
+    
+   }
+
+   .main3 {
+    position: relative;
+    right: 25px;
+   }
+
+   .box {
+    width: 326px !important;
+    height: 118px !important;
+    margin-bottom: 20px;
+   }
+
+   .image11 {
+    display: none;
+   }
+   .bakery {
+    font-size: 20px !important;
+    font-weight: bold !important;
+   }
+
+   .main4 {
+    position: relative;
+    right: 70px;
+   }
+
+   .master {
+    width: 214px !important;
+    height: 42px !important;
+   }
+
+   .ourUnique {
+    font-size: 30px!important;
+    font-weight: 800 !important;
+    position: relative;
+    left: 100px;
+   }
+
+   .experience {
+    display: none;
+   }
+   .üçlü {
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+    right: 400px;
+   }
+
+   .eşya {
+    margin-bottom: 40px !important;
+   }
+
+   .resimBölüm {
+    margin-top: 700px !important;
+   }
+
+   .resimBölüm {
+    position: relative;
+    top: 200px;
+    right: 300px;
+    flex-direction: column;
+    align-items: center;
+   }
+
+   .main5Foto {
+    width: 419px !important;
+    height: 301px !important;
+    position: relative;
+    right: 150px;
+    margin-bottom: 35px !important;
+   }
+
+   .otherAdvantages {
+    width: 283px !important;
+    height: 36px !important;
+    font-size: 30px !important;
+    font-weight: 600 !important;
+    
+   }
+
+   .birinci {
+    width: 326px !important;
+    height: 260px !important;
+   }
+
+   .exploree {
+    width: 294px !important;
+    height: 130px !important;
+    font-size: 16px !important;
+    position: relative;
+    right: 50px;
+   }
+
+   .responsiveImg {
+    display: none ;
+   }
+
+   .one {
+    margin-top: 300px !important;
+   }
+
+   .frameImg {
+    position: relative;
+    right: 100px;
+   }
+
+   .ilkToplam {
+    position: relative;
+    left: 20px;
+   }
+
+   .imgExploreOur {
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+    right: 380px;
+   }
+   .frameImg {
+    width: 326px !important;
+    height: 254px !important;
+   }
+
+   .exploreBegin {
+    position: relative;
+    right:150px ;
+   }
+
+   .exploreOurC {
+    width: 326px !important;
+    height: 66px !important;
+    font-size: 28px !important;
+    font-weight: 600 !important;
+    
+
+   }
+   .beginBy {
+    width: 326px !important;
+    height: 174px !important;
+   }
+
+   .ikinciToplam {
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+    right: 300px;
+    
+    
+   }
+
+   .frameImg55 {
+    width: 326px !important;
+    height: 193px !important;
+    position: relative;
+    right: 180px;
+    top: 30px;
+   }
+
+   .h1Ponce {
+    width: 326px !important;
+    height: 298px !important;
+    position: relative;
+    right: 180px;
+   }
+
+   .onceYou {
+    width: 326px !important;
+    height: 203px !important;
+   }
+
+   .üçüncüToplam {
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+    top: 400px;
+    right: 470px;
+   }
+
+   .frameImg54 {
+    width: 359px !important;
+    height: 229px !important;
+   }
+
+   .enjoyStep {
+    position: relative;
+    right: 70px!important;
+   }
+
+   .enjoy {
+    width: 326px !important;
+    height: 66px !important;
+   }
+
+   .stepInto {
+    width: 326px !important;
+    height: 174px !important;
+   }
+
+   .moneyWe {
+    width: 326px !important;
+    height: 351px !important;
+    margin-top: 500px !important;
+   }
+   .moneyBack {
+    width: 287px !important;
+    height: 66px !important;
+    font-size: 28px !important;
+    font-weight: 600 !important;
+
+   }
+   .weBelieve {
+    width: 287px !important;
+    height: 135px !important;
+    font-size: 18px !important;
+    font-weight: 400 !important;
+
+   }
+
+   .hepsi {
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+    right: 300px;
+    
+   }
+
+   .shareYour {
+    width: 326px !important;
+    height: 145px !important;
+   }
+   .paragraf {
+    width: 326px !important;
+    height: 87px !important;
+   }
+
+   .rectangleImg23 {
+    width: 360px !important;
+    height: 302px !important;
+    position: relative;
+    right: 150px;
+    top: 130px;
+   }
+
+   .becomeButton {
+    position: relative;
+    top: 100px;
+   }
+
+   .toplamm {
+    margin-top: 200px !important;
+    width: 408px !important;
+    flex-direction: column;
+    align-items: center;
+    
+    
+   }
+   .rectangeImg32 {
+    width: 394px !important;
+    height: 408px !important;
+   }
+
+   .alll {
+    width: 394px !important ;
+    height: 1113px !important;
+   }
+
+   .awrwetrg {
+    position: relative;
+    right: 80px;
+   }
+
+   .becomeAStudent {
+    width: 267px !important;
+    height: 34px !important;
+    font-weight: 700 !important;
+    font-size: 30px !important;
+   }
+   .kickStart {
+    width: 326px !important;
+    height: 203px !important;
+    font-size: 18px !important;
+    font-weight: 400 !important;
+
+   }
+
+   .ortak {
+    width: 326px !important;
+    height: 72px !important;
+   }
+
+   .buttonSignUp , .buttonSignUp2 {
+    width: 326px !important;
+   }
+
+   .yanYana {
+    flex-direction: column;
+   }
+
+   .japanese {
+    display: none;
+   }
+   .italian {
+    display: none;
+   }
+   .popular {
+    width: 3226px !important;
+    height: 68px !important;
+    font-size: 30px !important;
+    font-weight: 600 !important;
+    display: flex;
+    
+   }
+
+   .allll {
+    position: relative;
+    left: 15px;
+   }
+
+   .bölüm2 {
+    margin-top: 100px !important ;
+    position: relative;
+    right: 150px;
+
+   }
+   .fotolar1 {
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+    right: 150px;
+    row-gap: 25px;
+   }
+
+   .sfsdg {
+    width: 400px !important;
+    height: 750px !important;
+    
+    
+
+   }
+   .footer {
+    width: 390px !important;
+    height: 1000px !important;
+   }
+
+   .marginO {
+    flex-direction: column;
+    position: relative;
+    left: 130px;
+
+   }
+   .cookImg {
+    margin-bottom: 50px !important;
+   }
+   .ppp {
+    margin-bottom: 15px !important;
+   }
+
+   .forStudents {
+    margin: 20px 0 10px 0 !important;
+   }
+
+   .forTutors {
+    margin: 20px 0 10px 0 !important;
+   }
+   .supportss {
+    margin: 20px 0 10px 0 !important;
+   }
+
+   .footerIkinci {
+    position: relative;
+    bottom: 10px;
+    left: 55px;
+   }
+}
